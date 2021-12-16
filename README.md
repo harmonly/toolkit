@@ -14,4 +14,4 @@ https://cdn.jsdelivr.net/gh/harmonly/ubiquitous-octo-bassoon@main/res/pic.png
 
 ## 2 [FastGithub](https://github.com/dotnetcore/FastGithub)
 * access to github without lagging.
-* [github-realse](https://github.com/dotnetcore/FastGithub/releases)
+* [github-release](https://github.com/dotnetcore/FastGithub/releases)
