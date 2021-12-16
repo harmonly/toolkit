@@ -1,10 +1,12 @@
 # ubiquitous-octo-bassoon
 ## 1 [jsDelivr](https://www.jsdelivr.com/?docs=gh)
-### 1.1 usage
+### 1.1 description
+A free CDN for Open Source
+### 1.2 usage
 ```
 https://cdn.jsdelivr.net/gh/user/repo@version/file
 ```
-### 1.2 example
+### 1.3 example
 ```
 https://cdn.jsdelivr.net/gh/harmonly/ubiquitous-octo-bassoon@main/res/pic.png
 ```
