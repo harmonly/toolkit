@@ -8,7 +8,7 @@ https://cdn.jsdelivr.net/gh/user/repo@version/file
 ```
 https://cdn.jsdelivr.net/gh/harmonly/ubiquitous-octo-bassoon@main/res/pic.png
 ```
-![example 1]
+![example 1](https://cdn.jsdelivr.net/gh/harmonly/ubiquitous-octo-bassoon@main/res/pic.png)
 
 ## 2 [FastGithub](https://github.com/dotnetcore/FastGithub)
 * access to github without lagging.
