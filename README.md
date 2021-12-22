@@ -19,4 +19,7 @@ https://cdn.jsdelivr.net/gh/harmonly/ubiquitous-octo-bassoon@main/res/pic.png
 ## 3 [Github Learning Lab](https://lab.github.com/)
 
 ## 4 [Iconfont](https://www.iconfont.cn/)
-*在线转换ico文件:[比特虫](https://www.bitbug.net/)
+### 4.1 description
+The domestic function is very powerful and the icon content is very rich vector icon library, vector icon download, online storage, format conversion and other functions.
+### 4.2 other tools
+*在线ico图标制作网站:[比特虫](https://www.bitbug.net/)
