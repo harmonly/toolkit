@@ -13,10 +13,14 @@ https://cdn.jsdelivr.net/gh/harmonly/ubiquitous-octo-bassoon@main/res/pic.png
 ![example 1](https://cdn.jsdelivr.net/gh/harmonly/ubiquitous-octo-bassoon@main/res/pic.png)
 
 ## 2 [FastGithub](https://github.com/dotnetcore/FastGithub)
-* access to github without lagging.
-* [github-release](https://github.com/dotnetcore/FastGithub/releases)
+### 2.1 description
+access to github without lagging.
+### 2.2 download
+[github-release](https://github.com/dotnetcore/FastGithub/releases)
 
 ## 3 [Github Learning Lab](https://lab.github.com/)
+### 3.1 description
+With GitHub Learning Lab, grow your skills by completing fun, realistic projects. Get advice and helpful feedback from our friendly Learning Lab bot.
 
 ## 4 [Iconfont](https://www.iconfont.cn/)
 ### 4.1 description
