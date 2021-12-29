@@ -16,7 +16,7 @@ https://cdn.jsdelivr.net/gh/harmonly/ubiquitous-octo-bassoon@main/res/pic.png
 ### 2.1 description
 github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题。
 ### 2.2 download
-[github-release](https://github.com/dotnetcore/FastGithub/releases)
+- [github-release](https://github.com/dotnetcore/FastGithub/releases)
 
 ## 3 [Github Learning Lab](https://lab.github.com/)
 ### 3.1 description
