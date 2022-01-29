@@ -35,3 +35,7 @@ Markdown is a lightweight markup language that allows people to write documents 
 ## 6 [IconPark](https://iconpark.oceanengine.com/)
 ### 6.1 description
 丰富多彩的资源库免费使用, 2400+基础图标，29种图标分类，提供更多的选择
+
+## 7 [ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN)
+### 7.1 description
+♋ 一个 Chrome 插件：将 Google CDN 替换为国内的。
